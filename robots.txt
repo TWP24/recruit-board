@@ -1,0 +1,6 @@
+# Most of the athletes listed on this site are minors. Every result is already
+# public on worldathletics.org, but a consolidated, filterable index of
+# children's names, birth years and nationalities should not be something a
+# search engine surfaces. Reachable by link, not by search.
+User-agent: *
+Disallow: /
