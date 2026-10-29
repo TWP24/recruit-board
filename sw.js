@@ -1,5 +1,5 @@
-/* Recruiting board service worker - build 202610280836 */
-const CACHE = 'recruit-202610280836';
+/* Recruiting board service worker - build 202610290649 */
+const CACHE = 'recruit-202610290649';
 const ASSETS = ['./', './index.html', './manifest.webmanifest',
                 './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
